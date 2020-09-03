@@ -12,7 +12,7 @@ are :-
  * if any person doesnot have CD account it is more likely he will not take loan
  * people not taking loan have very left skewed income distribution same is with CCAvg
  * Distribution of avgsavings seems to more approx to normal curve compare to income from which it was initially created.
- $ Collecting good quality of data is always helpfull for better prediction of target bank must collect more information related to customers savings , spending
- $ families net income , families net spending or savings  which was observed while data analysis.
+ /n Collecting good quality of data is always helpfull for better prediction of target bank must collect more information related to customers savings , spending
+  families net income , families net spending or savings  which was observed while data analysis.
  
  
